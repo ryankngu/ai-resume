@@ -1,5 +1,8 @@
-Clone Locally
+RUN LOCALLY:
+-  clone repo
+-  npm install
+-  npm run dev
 
-npm install
+RUN ON GOOGLE:
+- https://puter.com/app/rkn-ai-resume-tracker
 
-npm run dev
